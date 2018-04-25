@@ -1,0 +1,2 @@
+# gcr
+googlecontiner-proxy
